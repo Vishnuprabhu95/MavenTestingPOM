@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="81720" started-at="2020-04-07T16:39:42 IST" finished-at="2020-04-07T16:41:04 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="81720" started-at="2020-04-07T16:39:42 IST" finished-at="2020-04-07T16:41:04 IST">
+      <class name="test.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.HomePageTest@53f65459]" name="setup" is-config="true" duration-ms="13562" started-at="2020-04-07T16:39:42 IST" finished-at="2020-04-07T16:39:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="firstResultTest1()[pri:0, instance:test.HomePageTest@53f65459]" name="firstResultTest1" duration-ms="25478" started-at="2020-04-07T16:39:56 IST" finished-at="2020-04-07T16:40:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstResultTest1 -->
+        <test-method status="PASS" signature="Terminate()[pri:0, instance:test.HomePageTest@53f65459]" name="Terminate" is-config="true" duration-ms="186" started-at="2020-04-07T16:40:21 IST" finished-at="2020-04-07T16:40:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Terminate -->
+      </class> <!-- test.HomePageTest -->
+      <class name="test.SecondHomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.SecondHomePageTest@3b088d51]" name="setup" is-config="true" duration-ms="13005" started-at="2020-04-07T16:40:21 IST" finished-at="2020-04-07T16:40:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="firstResultTest2()[pri:0, instance:test.SecondHomePageTest@3b088d51]" name="firstResultTest2" duration-ms="29255" started-at="2020-04-07T16:40:34 IST" finished-at="2020-04-07T16:41:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstResultTest2 -->
+        <test-method status="PASS" signature="Terminate()[pri:0, instance:test.SecondHomePageTest@3b088d51]" name="Terminate" is-config="true" duration-ms="150" started-at="2020-04-07T16:41:04 IST" finished-at="2020-04-07T16:41:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Terminate -->
+      </class> <!-- test.SecondHomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
